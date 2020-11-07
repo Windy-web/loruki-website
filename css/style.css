@@ -376,4 +376,10 @@ code, pre {
   .docs-head h1 {
     font-size: 3rem;
   }
+
+  .docs-main .card {
+    width: 100%;
+    align-items: center;
+    margin: auto;
+  }
 }
