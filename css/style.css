@@ -372,4 +372,8 @@ code, pre {
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.1);
   }
+
+  .docs-head h1 {
+    font-size: 3rem;
+  }
 }
